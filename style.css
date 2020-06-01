@@ -32,7 +32,7 @@
 #outside-help {
     color: black;
     font-family: Courier;
-    font-size: 12pt;
+    font-size: 24pt;
     text-align: center;
     padding: 20px;
 }
@@ -50,7 +50,7 @@
     margin-left: auto;
     margin-right: auto;
     color: gold;
-    font-size: 12pt;
+    font-size: 24pt;
     text-align: center;
 }
 
@@ -59,14 +59,14 @@
 }
 
 #inside-pic {
-    height: 200px;
-    width: 200px;
+    height: 400px;
+    width: 400px;
 }
 
 #message {
     color: black;
     font-family: Courier;
-    font-size: 12pt;
+    font-size: 24pt;
     text-align: center;
 }
 
@@ -83,14 +83,18 @@ body {
 .button-visible {
     background: none;
     border: none !important;
-    font-size: xx-large;
+    font-size: 40pt;
     color: red;
 }
 
 .button-invisible {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background: black;
     border: black;
     font-size: 0;
+}
+
+#name {
+    font-size: 50pt;
 }
