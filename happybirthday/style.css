@@ -6,7 +6,7 @@
     text-align: center;
     transition: 1s;
     transform-origin: 0;
-    background: url("open.jpg") no-repeat center center fixed;
+    background: url("happybirthday/open.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -77,7 +77,7 @@ button {
 
 
 body {
-    background: url("open.jpg");
+    background: url("happybirthday/open.jpg");
 }
 
 .button-visible {
